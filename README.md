@@ -2,16 +2,27 @@
 
 Group 2 – BBIT 3.1 | Human–Computer Interaction
 MEMBERS
+
 Beth Gatoho - C027-01-0899/2024 
+
 Alvin Mayore -C027-01-0881/2024 
-Trista Wanjiru -C027-01-2394/202 
+
+Trista Wanjiru -C027-01-2394/2024
+
 Esther Kariuki -C027-01-0843/2024 
+
 Samuel Kennedy -C027-01-0854/2024 
+
 Samuel Mburu C027-01-0894/2024 
+
 Eunice Wanjeri C027-01-0827/2024 
+
 Joan Nyambura C027-01-2423/2024 
+
 HIllary Kiptoo C027-01-0900/2024 
+
 Beatrice Maina C027-01-844/2024 
+
 Kennedy Kimani C027-01-0839/2024
 
 PROJECT OVERVIEW
