@@ -1,8 +1,20 @@
 # Mobile-Navigation-App
 
 Group 2 – BBIT 3.1 | Human–Computer Interaction
+MEMBERS
+Beth Gatoho - C027-01-0899/2024 
+Alvin Mayore -C027-01-0881/2024 
+Trista Wanjiru -C027-01-2394/202 
+Esther Kariuki -C027-01-0843/2024 
+Samuel Kennedy -C027-01-0854/2024 
+Samuel Mburu C027-01-0894/2024 
+Eunice Wanjeri C027-01-0827/2024 
+Joan Nyambura C027-01-2423/2024 
+HIllary Kiptoo C027-01-0900/2024 
+Beatrice Maina C027-01-844/2024 
+Kennedy Kimani C027-01-0839/2024
 
-Project Overview
+PROJECT OVERVIEW
 
 The DeKUT Campus Navigation System is a proposed mobile application designed to help students, staff and visitors find their way around the main campus of Dedan Kimathi University of Technology (DeKUT).
 
@@ -10,7 +22,7 @@ We chose this idea because navigating a large university campus can sometimes be
 
 Our goal is to make campus navigation simpler by allowing users to search for locations, view important campus buildings and facilities, and get clear route directions.
 
-Problem Statement
+PROBLEM STATEMENT
 
 DeKUT main campus has several buildings, lecture halls, hostels, cafeterias, access gates, parking areas and other facilities spread across different parts of the campus.
 
@@ -20,10 +32,7 @@ The problem is particularly noticeable when looking for a specific lecture hall 
 
 The proposed system addresses this problem by providing a simple mobile interface for searching locations and following directions.
 
-Project Aim
 
-To design a user-friendly mobile campus navigation application that helps students, staff and visitors locate important buildings, lecture halls, departments and facilities at DeKUT and obtain simple directions to their destinations.
-Target Users
 
 The main users of the proposed system are:
 
@@ -34,6 +43,8 @@ Continuing students – students who need to find unfamiliar lecture halls, depa
 Staff members – staff who need to locate offices and campus facilities.
 
 Visitors – people visiting DeKUT who may not know the campus layout.
+
+
 Main Features
 
 1. Campus Map
@@ -95,88 +106,50 @@ Health services
 Emergency contacts
 
 Nearest emergency locations
+
+
 Prototype Screens
 
-The Group 2 prototype is designed around the following screens:
+The prototype is designed around the following screens:
 
-No.
-
-Screen
-
-Main Purpose
-
-1
-
-Home Screen
-
+1 Home Screen
 Main entry point to the application
 
-2
-
-Campus Map
-
+2 Campus Map
 View campus map and locations
 
-3
-
-Search Location
-
+3 Search Location
 Search for a destination
 
-4
-
-Route Directions
-
+4 Route Directions
 Get directions to a destination
 
-5
-
-Buildings Directory
-
+5 Buildings Directory
 Browse campus buildings
 
-6
-
-Department Location
-
+6 Department Location
 Find departments and offices
 
-7
-
-Lecture Halls
-
+7 Lecture Halls
 Find lecture halls and their locations
 
-8
-
-Facilities
-
+8 Facilities
 Find important campus facilities
 
-9
-
-Parking & Transport
-
+9 Parking & Transport
 Find parking and transport points
 
-10
-
-Emergency Services
-
+10 Emergency Services
 Find emergency-related services
 
-11
-
-Location Details
-
+11 Location Details
 View details about a selected location
 
-12
-
-Saved Locations / Settings
-
+12 Saved Locations / Settings
 Manage saved places or application settings
-User Research
+
+
+USER RESEARCH
 
 During the project, the group identified campus navigation as a challenge that can affect students who are unfamiliar with certain parts of the university.
 
@@ -192,7 +165,9 @@ These challenges helped us understand that a navigation system needs to present 
 
 Note: Actual interview/questionnaire results and participant details should be added here when the group's research evidence is finalized.
 
-Usability Testing
+
+
+USABILITY TESTING
 
 The prototype is intended to be tested with at least five representative users.
 
